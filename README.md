@@ -5,7 +5,7 @@
 ## 📕 Table of Contents
 
 * [Generative AI](#-generative-ai)
-* [Machine Learning](*-machine-learning)
+* [Machine Learning](#-machine-learning)
 
 ---
 
